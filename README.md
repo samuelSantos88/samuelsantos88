@@ -1,5 +1,5 @@
 ### "Bem vindo ao perfil :💟
--(**)Meu nome è samuelsantos88 e estou estudando na usuario do alura 🖤(**)
+-(**)Meu nome è samuelsantos88 usuario do alura 🖤(**)
 
 -Estou desenvolvendo minha linguagem no JavaScript
 -Utilizarei esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
