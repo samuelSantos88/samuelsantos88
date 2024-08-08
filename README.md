@@ -3,6 +3,7 @@
 
 -Estou desenvolvendo minha linguagem no JavaScript
 -Utilizarei esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 (**)Contato(**)
 
