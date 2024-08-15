@@ -6,7 +6,7 @@
 -Utilizarei esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 -Estou estudando na [Alura](https://www.alura.com.br)
 
--Sou são paulino desde os 9 anos e gosto bastante de futebol tanto que um dia sonho em ser um jogador profissional um dia
+-Sou são paulino desde os 3 anos e gosto bastante de futebol tanto que um dia sonho em ser um jogador profissional um dia
 
 (**)Contato(**)
 
